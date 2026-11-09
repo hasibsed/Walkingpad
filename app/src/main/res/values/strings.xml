@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WalkingPad MC21</string>
+    <string name="nav_control">Control</string>
+    <string name="nav_intervals">Intervals</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_device">Device</string>
+    <string name="connect_walkingpad">Connect WalkingPad</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="scanning">Scanning for WalkingPad MC21…</string>
+    <string name="connected">Connected to MC21</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="start_belt">Start Belt</string>
+    <string name="pause_belt">Pause</string>
+    <string name="resume_belt">Resume</string>
+    <string name="stop_belt">Emergency Stop</string>
+    <string name="speed_label">km/h</string>
+    <string name="current_speed">Current Speed</string>
+    <string name="target_speed">Target Speed</string>
+    <string name="distance">Distance</string>
+    <string name="duration">Duration</string>
+    <string name="steps">Steps</string>
+    <string name="calories">Calories</string>
+    <string name="cadence">Cadence (SPM)</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="export_json">Export JSON</string>
+</resources>
